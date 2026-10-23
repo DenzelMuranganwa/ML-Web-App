@@ -1,6 +1,15 @@
 # Telco Churn Retention Desk
 
-A small local decision-support app built around the supplied Telco Customer Churn dataset (about 0.98 MB). It combines a logistic-regression pipeline, a transparent high-risk rule, and a practical retention action.
+A deployed Streamlit decision-support app built around the Telco Customer Churn dataset. It combines a scikit-learn logistic-regression pipeline, a transparent high-risk rule, and practical retention recommendations.
+
+## Portfolio description
+
+> Estimate whether a Telco customer is likely to churn and provide risk flags and practical retention recommendations.
+
+`Python` `Streamlit` `Scikit-learn` `Pandas` `Render` — *End-to-end machine learning workflow and interactive decision-support app*
+
+**Live demo:** [Open the Telco Churn Retention Desk](https://telco-churn-retention-desk.onrender.com)
+
 
 ## Run locally
 
